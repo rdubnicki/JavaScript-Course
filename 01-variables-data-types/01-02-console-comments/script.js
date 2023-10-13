@@ -13,7 +13,7 @@ console.table({name: 'Robert', email: 'rddubnic@gmail.com'});
 
 console.group('simple');
 console.log(x);
-console.error('Atenzione!');
+console.error('Attention!');
 console.warn('Nuclear!');
 console.groupEnd();
 
